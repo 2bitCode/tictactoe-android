@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tic_Tac_Toe</string>
+
+    <string name="topText"> Welcome to Tic-Tac-Toe </string>
+
+    <string name="homeImage"> Home Image </string>
+
+    <string name="home_button1"> Practice Mode </string>
+    <string name="home_button2"> Play Mode </string>
+
+    <string name="oimage0"> image O </string>
+    <string name="oimage1"> image O </string>
+    <string name="oimage2"> image O </string>
+    <string name="oimage3"> image O </string>
+    <string name="oimage4"> image O </string>
+    <string name="oimage5"> image O </string>
+    <string name="oimage6"> image O </string>
+    <string name="oimage7"> image O </string>
+    <string name="oimage8"> image O </string>
+
+    <string name="textButtom"> X\'s turn - tap to play </string>
+    <string name="resetButton">Reset Game</string>
+    <string name="grid">Main grid</string>
+
+    <string name="buttonO"> O </string>
+    <string name="buttonX"> X </string>
+</resources>
